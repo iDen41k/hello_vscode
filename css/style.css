@@ -1,0 +1,15 @@
+header {
+  background-color: #020000;
+}
+
+@im h1 {
+  color: green;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
